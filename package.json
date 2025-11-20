@@ -1,0 +1,33 @@
+{
+  "name": "aflami",
+  "version": "1.0.0",
+  "description": "A bilingual movie and TV series streaming platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "movies",
+    "tv-shows",
+    "streaming",
+    "react",
+    "vite"
+  ],
+  "author": "@rulerhmod",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "@vitejs/plugin-react": "^5.1.1",
+    "i18next": "^25.6.3",
+    "i18next-browser-languagedetector": "^8.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-i18next": "^16.3.5",
+    "react-icons": "^5.5.0",
+    "react-player": "^3.4.0",
+    "react-router-dom": "^7.9.6",
+    "vite": "^7.2.4"
+  }
+}
